@@ -30,7 +30,7 @@ completed
 completed
 - ### `CSS`
     - [CSS](https://www.youtube.com/watch?v=ieTHC78giGQ)(1hr 25mins)<br>
-
+completed
 - ### `Javascript`
     - [Javascript](https://www.youtube.com/watch?v=PkZNo7MFNFg&t=21s)(3hrs 20mins)<br>
 
