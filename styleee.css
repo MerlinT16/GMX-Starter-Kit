@@ -1,0 +1,88 @@
+
+h1{
+    color:#fe5e01;
+    font-size: xx-large;
+    font-style: bold;
+    text-align: center;
+}
+p{
+    color: rgb(47, 255, 5);
+    font-style: bold;
+    text-align: center;
+    font-size: x-large;
+}
+body{
+    background-color: gray;
+    background-image: url('nithin.jpg');
+}
+p1{
+    color:rgb(8, 201, 235);
+    font-size: xx-large;
+    font-style:inherit;
+}
+pm{
+    color: rgb(255, 239, 10);
+    font-size: x-large;
+    font-style: verdana;
+}
+po{
+    font-size: xx-large;
+    color: magenta;
+}
+pi{
+    color: aquamarine;
+    font-size: x-large;
+}
+mi{
+    color:whitesmoke;
+    font-size: x-large;
+    font-style: bold;
+}
+pk{
+    color:rgba(253, 125, 5, 0.986);
+    font-size: x-large;
+}
+ji{
+color: hsl(66, 96%, 51%);
+font-size: x-large;
+font-style: bold;
+}
+di{
+    color:rgba(109, 219, 6, 0.979);
+    font-size: x-large;
+    font-style: oblique;
+}
+nithya{
+    font-size: xx-large;
+    color: rgb(255, 0, 0);
+}
+danu{
+    color: greenyellow;
+    font-size: x-large;
+
+}
+aish{
+    color:rgb(248, 7, 7);
+    font-style: bold;
+    font-size: xx-large;
+}
+kai{
+    color: rgb(247, 27, 11);
+    font-size: xx-large;
+    font-style: inherit;
+
+}
+steffi{
+    color:hsl(108, 100%, 50%);
+    font-size: x-large;
+    font-style: 'Brush Script MT',cursive;
+}
+span{
+    text-align: right;
+    color: hsl(0, 0%, 100%);
+    font-size: xx-large;
+    padding: 50px;
+}
+.nav a{
+    padding-right: 30px;
+}
